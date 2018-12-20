@@ -38,3 +38,5 @@
 > - If you don’t have control of the clients, and can’t force the server to use SSL, a developer might not use SSL, causing a security risk
 >
 > *In Summary* – if you have control of the clients, or can ensure they use SSL, HTTP Basic is a good choice. The slowness of the SSL can be cancelled out by the speed of only making one request
+
+；
