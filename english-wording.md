@@ -39,4 +39,30 @@
 >
 > *In Summary* – if you have control of the clients, or can ensure they use SSL, HTTP Basic is a good choice. The slowness of the SSL can be cancelled out by the speed of only making one request
 
-；
+##  The idea, Benefits, Problems
+
+
+> <Subject>
+> =============================
+>
+> A brief background introdcution.
+>
+> The idea
+> --------
+>  Idea description
+>
+> Benefits
+> --------
+>
+> - Benifit 1
+>
+> - Benifit 2
+>
+> Problems
+> --------
+>
+> - Problem 1
+>
+> - Problem 2
+
+reference https://github.com/quchen/articles/blob/master/law-rules.md
