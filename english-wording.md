@@ -42,7 +42,7 @@
 ##  The idea, Benefits, Problems
 
 
-> <Subject>
+> Subject
 > =============================
 >
 > A brief background introdcution.
